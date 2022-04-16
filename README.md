@@ -7,7 +7,7 @@
 <br />
 <p align="center">
   <a href="http://www.aiboost.eu.org">
-    <img src="frontend/src/assets/images/logo_min.svg" alt="Logo" width="280" height="120">
+    <img src="./client/images/logo_mini.svg" alt="Logo" width="280" height="120">
     <h1 align="center">Aiboost next</h1>
   </a>
 
